@@ -8,4 +8,8 @@ This is my first RMarkdown file tracked by Git!!
 
 
 
+```{r}
+library(gitcreds)
+
+```
 
