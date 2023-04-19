@@ -13,3 +13,24 @@ library(gitcreds)
 
 ```
 
+
+Exercise 3.2
+gitignore
+
+Use the Git repository of the previous question for this question.
+
+Create a directory called ‘data’. Add a few Excel files in this directory and also some csv files (you can also just create some empty files using Excel). Check the Git menu in RStudio (but do not commit anything!).
+2. Update the gitignore file in such a way that all the files in the data directory are ignored. Check the Git menu in RStudio (refresh if necessary). What do you see?
+
+the data/ is gone and only git ignore is available 
+
+3. Update the gitignore file in such a way that all the Excel files in the data directory are ignored. Check the Git menu in RStudio (refresh if necessary). What do you see?
+
+only the CVS files are marked in the git menu (and the .gitignore)
+
+
+
+
+
+
+
