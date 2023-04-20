@@ -30,6 +30,14 @@ only the CVS files are marked in the git menu (and the .gitignore)
 
 
 
+Exercise 4.1
+
+We write random text to see how branches work in lesson 4 :D.
+So how is your day going?
+
+
+
+
 
 
 
