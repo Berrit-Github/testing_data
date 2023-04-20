@@ -31,12 +31,21 @@ only the CVS files are marked in the git menu (and the .gitignore)
 
 
 Exercise 4.1
+A. Create a new branch in RStudio.
+B. Modify the markdown file by adding some additional text. Save the changes and commit/push the changes to GitHub. Go to GitHub and try to find the commits of the new branch.
 
 We write random text to see how branches work in lesson 4 :D.
 So how is your day going?
 
+C. In RStudio, change to the main branch. What happens to your recent changes in your RMarkdown file? What happens if you change to your development branch?
+
+they are not in the markdown file *gasp*
+
+D. Merge your changes with the main branch by creating and resolving a pull request. In RStudio, switch to the main branch and pull your changes. Does the RMarkdown file now have the changes?
 
 
+
+E. Delete the local development branch using the command line.
 
 
 
